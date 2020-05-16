@@ -1,4 +1,6 @@
 # InlineRegex
+InlineRegex allows you to use regular expression to extract pieces of data from a string in consice way.
+
 ``` swift
 struct Info {
     var action: String? = nil
